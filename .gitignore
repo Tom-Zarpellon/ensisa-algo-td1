@@ -1,0 +1,5 @@
+*.exe
+*.o
+*.obj
+*.out
+_extract.txt
